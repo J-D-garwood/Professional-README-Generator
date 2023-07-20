@@ -2,6 +2,36 @@
 const inquirer = require('inquirer')
 const fs = require('fs')
 
+const generateREADME = ({title, Description, Install, Use, License, Contribs, Tests, Qs}) =>
+`#${title}
+
+## Description
+
+${Description}
+
+## Table of Contents
+
+<INSERT TABLE OF CONTENTS HERE>
+
+## Installation
+
+${Install}
+
+## Usage
+
+${Use}
+
+## Credits
+
+${Contribs}
+
+## Tests
+
+${Tests}
+
+## Questions
+
+${Qs}`
 
 
 /*
