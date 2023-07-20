@@ -1,9 +1,11 @@
-// TODO: Include packages needed for this application
+//including packaged required
 const inquirer = require('inquirer')
 const fs = require('fs')
+const generateLicense = require('./utils/generateLicense.js');
 
+//Generate README.md function
 const generateREADME = ({title, Description, Install, Use, License, Contribs, Tests, Qs1, Qs2}) =>
-`#${title}
+`# ${title}
 
 ## Description
 
@@ -11,12 +13,12 @@ ${Description}
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Tests](#tests)
-- [Questions](#questions)
+[Installation](#installation)
+[Usage](#usage)
+[Credits](#credits)
+[License](#license)
+[Tests](#tests)
+[Questions](#questions)
 
 ## Installation
 
@@ -39,10 +41,12 @@ ${License}
 ${Tests}
 
 ## Questions
+For further questions, you can reach me at: 
 
 ${Qs1}
 ${Qs2}`;
 
+// Prompting for user input
 inquirer
     .prompt([
         {
@@ -79,38 +83,23 @@ inquirer
         {
             type:'input',
             name:'Tests',
-            message:'Please enter some tests for your application: ',
+            message:'Please enter some tests for your application:',
         },
         {
             type:'input',
             name:'Qs1',
-            message:'Please enter your email address: ',
+            message:'Please enter your email address:',
         },
         {
             type:'input',
             name:'Qs2',
-            message:'Please enter your GitHub username: ',
+            message:'Please enter your GitHub username:',
         },
     ])
+//creating README content with user inputs 
     .then((answers) => {
         const README_content = generateREADME(answers);
-
+// Writing to README.md with generated content
         fs.writeFile('README.md', README_content, (error) =>
-        error ? console.log(error) : console.log('Successfully created README.md!')
-)
+        error ? console.log(error) : console.log('Successfully created README.md!'))
     })
-
-/*
-// TODO: Create an array of questions for user input
-const questions = [];
-
-// TODO: Create a function to write README file
-function writeToFile("README.md", README_content) {
-}
-
-// TODO: Create a function to initialize app
-function init() {}
-
-// Function call to initialize app
-init();
-*/
