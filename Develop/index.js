@@ -11,7 +11,12 @@ ${Description}
 
 ## Table of Contents
 
-<INSERT TABLE OF CONTENTS HERE>
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
@@ -59,12 +64,13 @@ inquirer
             type:'input',
             name:'Use',
             message:'Please enter the usage instructions for your project:',
-        },/*
+        },
         {
-            type:'',
+            type:'list',
             name:'License',
-            message:'',
-        },*/
+            message:'What license is this project under?',
+            choices: ['Apache 2.0', 'Boost Software 1.0', 'BSD 3-Clause', 'BSD 2-Clause', 'Creative Commons', 'Eclipse', 'GNU GPL v3', 'GNU GPL v2', 'GNU AGPL v3', 'GNU LGPL v3', 'GNU FDL v1.3', 'The Hippocratic License 2.1', 'The Hippocratic License 3.0', 'IBM Public License Version 1.0', 'ISC License (ISC)', 'The MIT License', 'Mozilla Public License 2.0', 'Attribution License (BY)', 'Open Database License (ODbL)', 'Public Domain Dedication and License (PDDL)', 'The Perl License', 'The Artistic License 2.0', 'SIL Open Font License 1.1', 'The Unlicense', 'The zlib/libpng License'],
+        },
         {
             type:'input',
             name:'Contribs',
