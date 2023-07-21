@@ -13,11 +13,11 @@ ${Description}
 
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[Credits](#credits)
-[License](#license)
-[Tests](#tests)
+[Installation](#installation)\n
+[Usage](#usage)\n
+[Credits](#credits)\n
+[License](#license)\n
+[Tests](#tests)\n
 [Questions](#questions)
 
 ## Installation
