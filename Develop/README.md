@@ -30,11 +30,7 @@ my rectum and colon
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 ## Tests
-
 piss your pants
 
 ## Questions
 For further questions, you can reach me at: 
-
-cunt
-penis
