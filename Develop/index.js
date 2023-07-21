@@ -44,7 +44,7 @@ ${Tests}
 For further questions, you can reach me at: 
 
 ${Qs1}
-${Qs2}`;
+https://github.com/${Qs2}`;
 
 // Prompting for user input
 inquirer

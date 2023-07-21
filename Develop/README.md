@@ -1,36 +1,45 @@
-# Poop
+# MyCodingPortfolio
 
 ## Description
 
-poopypants
+A simple webpage with links, images and descriptions of some of the projects I have coded
 
 ## Table of Contents
 
 [Installation](#installation)
+
 [Usage](#usage)
+
 [Credits](#credits)
+
 [License](#license)
+
 [Tests](#tests)
+
 [Questions](#questions)
 
 ## Installation
 
-eat a laxative
+head to github repo j-d-garwood/My-Coding-Portfolio, download all files (index.html, styles.css, script.js)
 
 ## Usage
 
-poop in your pants
+navigate through page using header links to different sections with descriptions and links to my past coding projects.
 
 ## Credits
 
-my rectum and colon
+None
 
 ## License
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
 ## Tests
-piss your pants
+
+Null
 
 ## Questions
 For further questions, you can reach me at: 
+
+garwoodjdm@gmail.com
+https://github.com/j-d-garwood
