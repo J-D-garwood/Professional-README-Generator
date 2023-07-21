@@ -1,39 +1,40 @@
-# poo
+# Poop
 
 ## Description
 
-wee
+poopypants
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Tests](#tests)
-- [Questions](#questions)
+[Installation](#installation)
+[Usage](#usage)
+[Credits](#credits)
+[License](#license)
+[Tests](#tests)
+[Questions](#questions)
 
 ## Installation
 
-poo
+eat a laxative
 
 ## Usage
 
-cum
+poop in your pants
 
 ## Credits
 
-ass
+my rectum and colon
 
 ## License
 
-Apache 2.0
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 ## Tests
 
-dick
+piss your pants
 
 ## Questions
+For further questions, you can reach me at: 
 
-cunt
-penis
+poop.com
+Poopy butthole
