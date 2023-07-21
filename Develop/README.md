@@ -36,5 +36,5 @@ piss your pants
 ## Questions
 For further questions, you can reach me at: 
 
-poop.com
-Poopy butthole
+cunt
+penis
