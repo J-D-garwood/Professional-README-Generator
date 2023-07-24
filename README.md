@@ -25,7 +25,7 @@ No collaborators on this project
 
 N/a
 
-## link to deploayed application
+## link to deployed application
 
 N/a
 
