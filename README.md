@@ -31,4 +31,4 @@ N/a
 
 ## Video of functional application
 
-[Application-Demo]("https://drive.google.com/file/d/1KK8BMkBx8PlQqt8VtoNyGgoCF3lHiWd1/view?usp=sharing")
+[App Demo](./Develop/media/App-Demo.mp4)
