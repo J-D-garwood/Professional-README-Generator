@@ -7,6 +7,8 @@ const generateLicense = require('./utils/generateLicense.js');
 const generateREADME = ({title, Description, Install, Use, License, Contribs, Tests, Qs1, Qs2}) =>
 `# ${title}
 
+${generateLicense.renderLicenseBadge(License)}
+
 ## Description
 
 ${Description}
@@ -34,7 +36,7 @@ ${Contribs}
 
 ## License
 
-${generateLicense.renderLicenseBadge(License)}
+Application is covered under: ${License}
 
 ## Tests
 
@@ -43,7 +45,7 @@ ${Tests}
 ## Questions
 For further questions, you can reach me at: 
 
-${Qs1}
+${Qs1}\n
 https://github.com/${Qs2}`;
 
 // Prompting for user input
