@@ -30,4 +30,4 @@ N/a
 
 ## Video of functional application
 
-[Application-Demo](./Develop/media/App-Demo.mp4")
+[Application-Demo]("https://drive.google.com/file/d/1KK8BMkBx8PlQqt8VtoNyGgoCF3lHiWd1/view")
