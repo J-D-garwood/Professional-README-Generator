@@ -30,4 +30,4 @@ N/a
 
 ## Video of functional application
 
-[Video-of-working-app](./Develop/media/Application-Demo.webm")
+[Application-Demo](./Develop/media/App-Demo.mp4")
