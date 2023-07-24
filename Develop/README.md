@@ -1,8 +1,10 @@
 # MyCodingPortfolio
 
+[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+
 ## Description
 
-A simple webpage with links, images and descriptions of some of the projects I have coded
+A simple webpage which depicts some of the projects I have coded
 
 ## Table of Contents
 
@@ -20,26 +22,27 @@ A simple webpage with links, images and descriptions of some of the projects I h
 
 ## Installation
 
-head to github repo j-d-garwood/My-Coding-Portfolio, download all files (index.html, styles.css, script.js)
+Go to the github repo at github.com/j-d-garwood/MyCodingPortfolio, Download all files (HTML, CSS, Javascript, etc.)
 
 ## Usage
 
-navigate through page using header links to different sections with descriptions and links to my past coding projects.
+Navigate through webpage using the links in the header to different sections which have images and descriptions of some of the coding projects I have worked on.
 
 ## Credits
 
-None
+No Collaborators
 
 ## License
 
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+Application is covered under: Eclipse
 
 ## Tests
 
-Null
+No Tests
 
 ## Questions
 For further questions, you can reach me at: 
 
-garwoodjdm@gmail.com
+fakeemail.com.au
+
 https://github.com/j-d-garwood
