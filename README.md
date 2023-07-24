@@ -26,8 +26,9 @@ No collaborators on this project
 N/a
 
 ## link to deploayed application
+
 N/a
 
 ## Video of functional application
 
-[Application-Demo]("https://drive.google.com/file/d/1KK8BMkBx8PlQqt8VtoNyGgoCF3lHiWd1/view")
+[Application-Demo]("https://drive.google.com/file/d/1KK8BMkBx8PlQqt8VtoNyGgoCF3lHiWd1/view?usp=sharing")
